@@ -9,14 +9,13 @@ export default function Footer() {
             {/* 公司信息 */}
             <div>
                 <h3 className="font-bold text-lg">HSM AUS PTY LTD</h3>
-                <p className="text-blue-200">Slogan or other content here</p>
+                <p className="text-blue-200">Working hours: 11:00-8:00</p>
             </div>
     
             {/* 联系方式 */}
             <div>
                 <h4 className="font-semibold mb-1">Contact</h4>
-                <p>✉️ abcd123@gmail.com</p>
-                <p>📞 041234567</p>
+                <p> yumin56.ab@gmail.com</p>
             </div>
     
             {/* 版权信息 */}
