@@ -4,7 +4,7 @@ import ContactSection from "./ui/indexSection/ContactSection";
 
 export default function HomePage() {
   return (
-    <main className="flex flex-col items-center justify-center">
+    <main className="flex flex-col items-center justify-center bg-white">
       {/* 对应锚点 #home */}
       <section
         id="home"
